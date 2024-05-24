@@ -1,2 +1,2 @@
 # RECURSOS
-Plataforma de Recursos para Programadores
+Plataforma de Recursos para Desarrolladores
