@@ -1,0 +1,18 @@
+[
+    {
+        "recurso": "MDN Web Docs: Recurso integral para desarrolladores web, que cubre HTML, CSS, JavaScript y APIs web. URL:https://developer.mozilla.org",
+	"owner" : "admin"
+    },
+    {
+        "recurso": "Stack Overflow: Un sitio de preguntas y respuestas para programadores profesionales y entusiastas. URL: https://stackoverflow.com",
+	"owner" : "admin"
+    },
+    {
+        "recurso": "GitHub: Una plataforma para control de versiones y colaboración. URL: https://github.com",
+	"owner" : "admin"
+    },
+    {
+        "recurso": "freeCodeCamp: Una comunidad de código abierto que te ayuda a aprender a programar. URL: https://www.freecodecamp.org",
+	"owner" : "admin"
+    }
+]
