@@ -21,6 +21,17 @@ services:
     volumes:
       - ./:/app
       - node_modules:/app/node_modules
+      networks:
+      recursos
+      ngix-proxy
+      environtment:
+      VIRTUAL_HOST: api-recursos.aitormon.es
+      LETSENCRYPT_HOST: api-recursos.aitormon.es
+      LETSENCRYPT_EMAIL: aitormon@gmail.com
 volumes:
   node_modules:
   mongo_qtre:
+  networks:
+  recursos:
+  ngix-proxy:
+  external:true
